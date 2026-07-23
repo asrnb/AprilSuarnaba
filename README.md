@@ -1,12 +1,12 @@
 <!-- Banner image (optional) -->
-<h1 align="center">Hi, I'm April!! 👋 </h1>
+<h1 align="center">Hi, I'm April!!! 👋 </h1>
 <p align="center">
    💻 AI Engineer | Software Developer | 🤖 ML & CV Enthusiast | 🎨 UI/UX Designer   
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 I'm a passionate **Computer Science graduate** with strong skills across **software development**, **artificial intelligence**,  **machine learning**, **computer vision**, and **networking**. I love solving real-world problems by combining technology, design, and data.
 
