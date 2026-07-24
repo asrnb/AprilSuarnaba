@@ -1,7 +1,7 @@
 <!-- Banner image (optional) -->
 <h1 align="center">Hi, I'm April!!! 👋 </h1>
 <p align="center">
-   💻 AI Engineer | Software Developer | 🤖 ML & CV Enthusiast | 🎨 UI/UX Designer   
+   💻 AI Engineer | Software Developer | 🤖 ML & CV Enthusiast | 🎨 UI/UX Designer  \ 
 </p>
 
 ---
