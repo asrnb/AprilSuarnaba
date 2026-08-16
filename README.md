@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me 
+## 🚀 About Me  
 
 I'm a passionate **Computer Science graduate** with strong skills across **software development**, **artificial intelligence**,  **machine learning**, **computer vision**, and **networking**. I love solving real-world problems by combining technology, design, and data.
 
