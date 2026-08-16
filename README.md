@@ -58,24 +58,6 @@ I'm a passionate **Computer Science graduate** with strong skills across **softw
 - [SAAI Mr. & Ms. Cover Photo](https://www.canva.com/design/DAG0nnzpFco/eAnkOr5MOZnDUZJtPfTGRg/edit?utm_content=DAG0nnzpFco&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 
-
-
-## 🏆 Certifications
-
-- **NC II** — Computer System Servicing  
-- ** Intern - Software Developer** — Callbox Inc. Iloilo  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asrnb&show_icons=true&theme=radical" width="47%" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrnb&layout=compact&theme=radical" width="47%" />
-</p> -->
-
----
-
 ## ✉️ Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/aprilsuarnaba)
